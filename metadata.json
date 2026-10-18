@@ -1,0 +1,6 @@
+{
+  "name": "Cortes de Bomba - Gasolinera",
+  "description": "Control y cuadre de cortes de caja en gasolineras, lectura de bombas, arqueo de efectivo y compartición por enlace dinámico.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
